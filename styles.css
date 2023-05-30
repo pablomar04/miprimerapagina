@@ -44,14 +44,6 @@ header, main, footer {
     
 }
 
-/* .imagenes {
-    border: 5px;
-    display: flex;
-    justify-content: space-around;
+.greeting{
+    text-align: center;
 }
-
-#pie {
-    display: flex;
-    justify-content: ;
-}
- */
